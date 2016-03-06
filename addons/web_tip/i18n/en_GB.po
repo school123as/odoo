@@ -25,23 +25,23 @@ msgstr "Action"
 #. module: web_tip
 #: model:ir.model.fields,help:web_tip.field_web_tip_highlight_selector
 msgid "CSS selector for the element to highlight"
-msgstr ""
+msgstr "CSS selector for the element to highlight"
 
 #. module: web_tip
 #: model:ir.model.fields,help:web_tip.field_web_tip_end_selector
 msgid "CSS selector used to end the tip"
-msgstr ""
+msgstr "CSS selector used to end the tip"
 
 #. module: web_tip
 #: model:ir.model.fields,help:web_tip.field_web_tip_trigger_selector
 msgid "CSS selectors used to trigger the tip, separated by a comma (ANDed)."
-msgstr ""
+msgstr "CSS selectors used to trigger the tip, separated by a comma (ANDed)."
 
 #. module: web_tip
 #: model:ir.model.fields,field_description:web_tip.field_web_tip_user_ids
 #: model:ir.ui.view,arch_db:web_tip.edit_tip_form
 msgid "Consumed by"
-msgstr ""
+msgstr "Consumed by"
 
 #. module: web_tip
 #: model:ir.model.fields,field_description:web_tip.field_web_tip_create_uid
